@@ -16,6 +16,8 @@ export default defineNuxtConfig({
 		plugins: [tailwindcss()],
 	},
 
+	css: ['@/styles/main.css'],
+
 	alias: {
 		'@': fileURLToPath(new URL('./', import.meta.url)),
 	},
