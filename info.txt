@@ -1,0 +1,17 @@
+Color Palette:
+
+Includes both dark and light theme
+Primary color: blue
+
+Background white (light mode): #EFF1F3
+Background dark (dark mode): #001021
+
+Light Mode:
+	text-completed: #1481BA
+
+Dark Mode:
+	text-completed: #11B5E4
+
+	#0ABAB5
+	#56DFCF
+	#ADEED9
