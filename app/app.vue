@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+	import '@/styles/globals.css';
+</script>
 
 <template>
 	<div>
