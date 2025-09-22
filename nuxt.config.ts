@@ -21,4 +21,19 @@ export default defineNuxtConfig({
 	alias: {
 		'@': fileURLToPath(new URL('./', import.meta.url)),
 	},
+
+	app: {
+		head: {
+			htmlAttrs: {
+				lang: 'en',
+			},
+			title: 'Rapid Key',
+			meta: [
+				{
+					name: 'description',
+					content: 'A temporary sample SEO description for Rapid Key. Hosted on NuxtHub',
+				},
+			],
+		},
+	},
 });
