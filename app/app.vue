@@ -1,9 +1,7 @@
-<script setup lang="ts">
-	import '@/styles/globals.css';
-</script>
+<script setup lang="ts"></script>
 
 <template>
 	<div>
-		<h1>Hello World!</h1>
+		<h1 class="m-5 text-xl text-green-400 underline">Hello World!</h1>
 	</div>
 </template>
